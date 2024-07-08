@@ -1,7 +1,3 @@
-# cs2-Auto-Load-Metamod
-Check if "Game   csgo/addons/metamod" Exist In gameinfo.gi if not Add It
-
-
 ## .:[ Join Our Discord For Support ]:.
 
 <a href="https://discord.com/invite/U7AuQhu"><img src="https://discord.com/api/guilds/651838917687115806/widget.png?style=banner2"></a>
@@ -9,7 +5,7 @@ Check if "Game   csgo/addons/metamod" Exist In gameinfo.gi if not Add It
 ***
 # [CS2] Auto Load Metamod (1.0.0)
 
-### Check if "Game   csgo/addons/metamod" Exist In gameinfo.gi if not Add It
+### Script Check if "Game   csgo/addons/metamod" Exist In gameinfo.gi if not Add It
 
 ![autoloadmeta](https://github.com/oqyh/cs2-Auto-Load-Metamod/assets/48490385/b980061c-01e4-4d25-8301-317160f44af3)
 
